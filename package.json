@@ -1,0 +1,11 @@
+{
+  "name" : "HelloWorld-nodejs",
+  "version" : "0.0.1",
+  "scripts" : {
+    "start" : "node server.js"
+  },
+  "dependencies" : {
+    "express" : "latest",
+    "jquery-i18n-properties" : "^1.2.7"
+  }
+}

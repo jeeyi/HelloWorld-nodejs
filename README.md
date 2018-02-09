@@ -9,3 +9,10 @@ To run,
 ```
 npm install && npm run start
 ```
+
+![Alt text](screenshots/English.png?raw=true "Localized in English")
+
+![Alt text](screenshots/Spanish.png?raw=true "Localized in Spanish")
+
+![Alt text](screenshots/Japanese.png?raw=true "Localized in Japanese")
+
